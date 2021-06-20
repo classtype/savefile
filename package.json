@@ -1,0 +1,39 @@
+{
+    "name": "savefile",
+    "version": "1.0.0",
+    "description": "savefile — Это npm-пакет с помощью которого вы можете быстро сохранить данные в файл.",
+    "contributors": [
+        {
+            "name": "Sergei",
+            "email": "classtype@mail.ru"
+        }
+    ],
+    "main": "src/savefile.js",
+    "homepage": "http://github.com/classtype/savefile",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/classtype/savefile.git"
+    },
+    "bugs": {
+        "url": "http://github.com/classtype/savefile/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/classtype/savefile/blob/master/LICENSE"
+        }
+    ],
+    "keywords": [
+        "fs",
+        "file",
+        "set",
+        "add",
+        "save",
+        "npm",
+        "path",
+        "local"
+    ],
+    "dependencies": {
+        "async": "3.2.0"
+    }
+}
